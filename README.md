@@ -5,7 +5,7 @@
 - 📫Contact
 If you're interested in collaborating, have any questions, or just want to connect, feel free to reach out to me. You can contact me via email at [shrey90@proton.me].
 - <a herf='https://shreyx.netlify.app/' target='_blank'><h2>Web Site</h2></a> 
-- <a herf='https://shrey90.netlify.app/' target='_blank'><h3>Other Website</h3></a>
+- <a herf='https://shrey90.netlify.app' target='_blank'>ther Website</a>
 
 Let's create engaging and captivating user interfaces together!
 
