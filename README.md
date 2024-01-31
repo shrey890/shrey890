@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrey Patel</h1>
 <h3 align="center">I’m interested in MERN Stack development</h3>
-<div style='display:flex; justify-content:center;'>
+<div>
   <img src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e479j5wo520day6v7qw0ikbkud6ccyl4pnir5mnw8e1&ep=v1_gifs_search&rid=200.webp&ct=g' alt='coding'/>
 </div>
 
