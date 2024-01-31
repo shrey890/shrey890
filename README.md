@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shreyz.vercel.app/](https://shreyz.vercel.app/)
 
-- 📫 How to reach me **shrey90@proton.me**
+- 📫 Contact -  **shrey90@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
