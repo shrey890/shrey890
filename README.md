@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrey Patel</h1>
-<h3 align="center">I’m interested in MERN Stack development</h3>
+
 <div>
   <img src='https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e479j5wo520day6v7qw0ikbkud6ccyl4pnir5mnw8e1&ep=v1_gifs_search&rid=200.webp&ct=g' alt='coding'/>
 </div>
@@ -8,9 +8,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey890&label=Profile%20views&color=0e75b6&style=flat" alt="shrey890" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrey890" alt="shrey890" /></a> </p>
-
-
-- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://shreyz.vercel.app/](https://shreyz.vercel.app/)
 
